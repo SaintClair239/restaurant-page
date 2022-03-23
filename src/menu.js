@@ -23,22 +23,22 @@ function createMenu() {
     menuList6.classList.add('menu-list');
 
     menuList1.innerHTML = `
-    <img src="../src/img/MENU9.png" alt="">
+    <img src="./img/MENU9.png" alt="">
     <p>Smashed Avo</p>`
     menuList2.innerHTML = `
-    <img src="../src/img/MENU10.png" alt="">
+    <img src="./img/MENU10.png" alt="">
     <p>Yin & Yang</p>`
     menuList3.innerHTML = `
-    <img src="../src/img/MENU11.png" alt="">
+    <img src="./img/MENU11.png" alt="">
     <p>Pancakes</p>`
     menuList4.innerHTML = `
-    <img src="../src/img/MENU12.png" alt="">
+    <img src="./img/MENU12.png" alt="">
     <p>Huevos Rancheros</p>`
     menuList5.innerHTML = `
-    <img src="../src/img/MENU13.png" alt="">
+    <img src="./img/MENU13.png" alt="">
     <p>Breakkie Roll</p>`
     menuList6.innerHTML = `
-    <img src="../src/img/MENU14.png" alt="">
+    <img src="./img/MENU14.png" alt="">
     <p>Burrito</p>`
     
     menuContent.appendChild(menuList1);
