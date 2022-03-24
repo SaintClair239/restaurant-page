@@ -1,3 +1,4 @@
+import './styles.css';
 import createContact from './contact';
 import createHome from './home';
 import createMenu from './menu';
